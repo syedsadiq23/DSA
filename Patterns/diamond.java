@@ -22,7 +22,7 @@ public class diamond {
         }
     }
     public static void main(String args[]){
-        diamond(4);
+        diamond(5);
     }
     
 }
