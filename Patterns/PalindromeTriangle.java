@@ -11,7 +11,7 @@ public class PalindromeTriangle {
                 System.out.print(j);
             }
 
-            System.out.println();
+            
         }
     }
 }
