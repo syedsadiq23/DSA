@@ -26,7 +26,7 @@ class CountPrime {
 
     public static void main(String[] args) {
         CountPrime obj = new CountPrime();
-        int result = obj.countPrimes(10);  // change input here
+        int result = obj.countPrimes(10);  
         System.out.println(result);
     }
 }
